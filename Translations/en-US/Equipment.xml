@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.5">
+<Equipment Version="1.3.8">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -704,6 +704,58 @@
 	<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
 	<TR-Name>Type 3 Fighter Hien (244th Fighter Group)</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>試製61cm六連装(酸素)魚雷</JP-Name>
+	<TR-Name>Prototype 61cm Sextuple (Oxygen) Torpedo Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>一式陸攻 二二型甲</JP-Name>
+	<TR-Name>Type 1 Attack Bomber Model 22A</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>零式艦戦32型</JP-Name>
+	<TR-Name>Zero Fighter Model 32</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>零式艦戦32型(熟練)</JP-Name>
+	<TR-Name>Zero Fighter Model 32 (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
+	<TR-Name>16inch Triple Gun Mount Mk.7 + GFCS</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Re.2001 OR改</JP-Name>
+	<TR-Name>Re.2001 OR Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>三式戦 飛燕一型丁</JP-Name>
+	<TR-Name>Type 3 Fighter Hien Model 1D</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>一式陸攻 三四型</JP-Name>
+	<TR-Name>Type 1 Attack Bomber Model 34</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>銀河</JP-Name>
+	<TR-Name>Ginga</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Re.2001 G改</JP-Name>
+	<TR-Name>Re.2001 G Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Re.2005 改</JP-Name>
+	<TR-Name>Re.2005 Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>38.1cm Mk.I連装砲</JP-Name>
+	<TR-Name>38.1cm Mk.I Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>QF 2ポンド8連装ポンポン砲</JP-Name>
+	<TR-Name>QF 2-pounder 8 Twin Pom-pom Gun Mount</TR-Name>
+  </Item>
   
   
   
@@ -989,5 +1041,9 @@
   <Item>
 	<JP-Name>深海偵察飛行艇</JP-Name>
 	<TR-Name>Abyssal Reconnaissance Flying Boat</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>高速深海魚雷 mod.2</JP-Name>
+	<TR-Name>High-speed Abyssal Torpedo mod.2</TR-Name>
   </Item>
 </Equipment>
